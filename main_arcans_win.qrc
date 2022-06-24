@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="mainArcans">
+    <file>pic/main_arcans/diyavol.jpg</file>
+    <file>pic/main_arcans/imperator.jpg</file>
+    <file>pic/main_arcans/imperatrica.jpg</file>
+    <file>pic/main_arcans/kolesnica.jpg</file>
+    <file>pic/main_arcans/koleso-fortuny.jpg</file>
+    <file>pic/main_arcans/luna.jpg</file>
+    <file>pic/main_arcans/mag.jpg</file>
+    <file>pic/main_arcans/mir.jpg</file>
+    <file>pic/main_arcans/otshelnik.jpg</file>
+    <file>pic/main_arcans/padayushaya-bashnya.jpg</file>
+    <file>pic/main_arcans/poveshennyi.jpg</file>
+    <file>pic/main_arcans/shut.jpg</file>
+    <file>pic/main_arcans/sila.jpg</file>
+    <file>pic/main_arcans/smert.jpg</file>
+    <file>pic/main_arcans/solnce.jpg</file>
+    <file>pic/main_arcans/spravedlivost.jpg</file>
+    <file>pic/main_arcans/strashnyi-sud.jpg</file>
+    <file>pic/main_arcans/tarot_ico.png</file>
+    <file>pic/main_arcans/umerennost.jpg</file>
+    <file>pic/main_arcans/verhovaya-zhrica.jpg</file>
+    <file>pic/main_arcans/verhovnyi-zhrec.jpg</file>
+    <file>pic/main_arcans/vlublennye.jpg</file>
+    <file>pic/main_arcans/zvezda.jpg</file>
+  </qresource>
+</RCC>

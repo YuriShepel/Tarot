@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="cups">
+    <file>pic/cups/chetverka-kubkov.jpg</file>
+    <file>pic/cups/desyatka-kubkov.jpg</file>
+    <file>pic/cups/devyatka-kubkov.jpg</file>
+    <file>pic/cups/dvoika-kubkov.jpg</file>
+    <file>pic/cups/koroleva-kubkov.jpg</file>
+    <file>pic/cups/korol-kubkov.jpg</file>
+    <file>pic/cups/pazh-kubkov.jpg</file>
+    <file>pic/cups/pyaterka-kubkov.jpg</file>
+    <file>pic/cups/rycar-kubkov.jpg</file>
+    <file>pic/cups/semerka-kubkov.jpg</file>
+    <file>pic/cups/shesterka-kubkov.jpg</file>
+    <file>pic/cups/tarot_ico.png</file>
+    <file>pic/cups/troika-kubkov.jpg</file>
+    <file>pic/cups/tuz-kubkov.jpg</file>
+    <file>pic/cups/vosmerka-kubkov.jpg</file>
+  </qresource>
+</RCC>

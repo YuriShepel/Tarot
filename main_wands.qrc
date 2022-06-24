@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="wands">
+    <file>pic/wands/chetverka-zhezlov.jpg</file>
+    <file>pic/wands/desyatka-zhezlov.jpg</file>
+    <file>pic/wands/devyatka-zhezlov.jpg</file>
+    <file>pic/wands/dvoika-zhezlov.jpg</file>
+    <file>pic/wands/koroleva-zhezlov.jpg</file>
+    <file>pic/wands/korol-zhezlov.jpg</file>
+    <file>pic/wands/pazh-zhezlov.jpg</file>
+    <file>pic/wands/pyaterka-zhezlov.jpg</file>
+    <file>pic/wands/rycar-zhezlov.jpg</file>
+    <file>pic/wands/semerka-zhezlov.jpg</file>
+    <file>pic/wands/shesterka-zhezlov.jpg</file>
+    <file>pic/wands/tarot_ico.png</file>
+    <file>pic/wands/troika-zhezlov.jpg</file>
+    <file>pic/wands/tuz-zhezlov.jpg</file>
+    <file>pic/wands/vosmerka-zhezlov.jpg</file>
+  </qresource>
+</RCC>

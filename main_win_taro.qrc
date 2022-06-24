@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="mainTaroWin">
+    <file>pic/main_taro_pic/cups.png</file>
+    <file>pic/main_taro_pic/pentacles.png</file>
+    <file>pic/main_taro_pic/swords.png</file>
+    <file>pic/main_taro_pic/tarot_ico.png</file>
+    <file>pic/main_taro_pic/wands.png</file>
+  </qresource>
+</RCC>

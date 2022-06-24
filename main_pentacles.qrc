@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="pentacles">
+    <file>pic/pentacles/chetverka-pentaklei.jpg</file>
+    <file>pic/pentacles/desyatka-pentaklei.jpg</file>
+    <file>pic/pentacles/devyatka-pentaklei.jpg</file>
+    <file>pic/pentacles/dvoika-pentaklei.jpg</file>
+    <file>pic/pentacles/koroleva-pentaklei.jpg</file>
+    <file>pic/pentacles/korol-pentaklei.jpg</file>
+    <file>pic/pentacles/pazh-pentaklei.jpg</file>
+    <file>pic/pentacles/pyaterka-pentaklei.jpg</file>
+    <file>pic/pentacles/rycar-pentaklei.jpg</file>
+    <file>pic/pentacles/semerka-pentaklei.jpg</file>
+    <file>pic/pentacles/shesterka-pentaklei.jpg</file>
+    <file>pic/pentacles/tarot_ico.png</file>
+    <file>pic/pentacles/troika-pentaklei.jpg</file>
+    <file>pic/pentacles/tuz_pentakley.jpg</file>
+    <file>pic/pentacles/vosmerka-pentaklei.jpg</file>
+  </qresource>
+</RCC>
